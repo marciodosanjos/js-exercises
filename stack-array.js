@@ -36,3 +36,4 @@ console.log(stack.size());
 console.log(stack.pop());
 console.log(stack.pop());
 console.log(stack.size());
+console.log();

@@ -36,3 +36,4 @@ console.log(stack.showItems());
 console.log(stack.size());
 console.log(stack.isEmpty());
 console.log(stack.pop());
+console.log();
